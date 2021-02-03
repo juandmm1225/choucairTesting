@@ -1,0 +1,2 @@
+co/com/choucair/certification/proyectobase/runners/RunnerTags.java
+ co.com.choucair.certification.proyectobase.runners.RunnerTags
