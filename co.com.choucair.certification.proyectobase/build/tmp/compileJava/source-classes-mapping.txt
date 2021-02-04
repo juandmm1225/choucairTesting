@@ -1,0 +1,4 @@
+co/com/choucair/certification/proyectobase/stepdefinitions/tasks/OpenUp.java
+ co.com.choucair.certification.proyectobase.stepdefinitions.tasks.OpenUp
+co/com/choucair/certification/proyectobase/stepdefinitions/userinterface/ChoucairAcademyPage.java
+ co.com.choucair.certification.proyectobase.stepdefinitions.userinterface.ChoucairAcademyPage
