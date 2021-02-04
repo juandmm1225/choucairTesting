@@ -21,5 +21,6 @@ public class SearchCoursePage extends PageObject {
     public static final Target SELECT_COURSE = Target.the("click to select the course").
             located(By.xpath("//a[contains(text(),'Foundation Express')]"));
 
-
+    public static final Target NAME_COURSE = Target.the("get the course name").
+            located(By.xpath("//a[contains(text(),'Foundation Express')]"));
 }

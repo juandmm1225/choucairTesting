@@ -6,6 +6,10 @@ co/com/choucair/certification/proyectobase/stepdefinitions/tasks/Login.java
  co.com.choucair.certification.proyectobase.stepdefinitions.tasks.Login
 co/com/choucair/certification/proyectobase/stepdefinitions/userinterface/ChoucairLoginPage.java
  co.com.choucair.certification.proyectobase.stepdefinitions.userinterface.ChoucairLoginPage
+co/com/choucair/certification/proyectobase/stepdefinitions/model/AcademyChoucairData.java
+ co.com.choucair.certification.proyectobase.stepdefinitions.model.AcademyChoucairData
+co/com/choucair/certification/proyectobase/stepdefinitions/questions/Answer.java
+ co.com.choucair.certification.proyectobase.stepdefinitions.questions.Answer
 co/com/choucair/certification/proyectobase/stepdefinitions/tasks/Search.java
  co.com.choucair.certification.proyectobase.stepdefinitions.tasks.Search
 co/com/choucair/certification/proyectobase/stepdefinitions/userinterface/SearchCoursePage.java
